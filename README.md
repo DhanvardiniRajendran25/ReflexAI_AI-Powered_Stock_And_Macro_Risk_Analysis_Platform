@@ -225,7 +225,7 @@ These queries define:
 
 ---
 
-## 2. Data Processing & Transformation
+## Data Processing & Transformation
 
 Once raw data enters the system, it is **normalized, structured, and transformed** into intermediate representations.
 
