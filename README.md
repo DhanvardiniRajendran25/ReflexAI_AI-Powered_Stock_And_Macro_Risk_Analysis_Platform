@@ -1,6 +1,5 @@
-# Reflex AI
+# Reflex AI - AI-Powered Stock & Macro Risk Analysis Platform
 
-**AI-Powered Stock & Macro Risk Analysis Platform**
 
 Reflex AI is a full-stack financial intelligence platform that combines **fundamental analysis, macro-risk diagnostics, and AI-driven market reasoning** into a single, explainable system.
 
