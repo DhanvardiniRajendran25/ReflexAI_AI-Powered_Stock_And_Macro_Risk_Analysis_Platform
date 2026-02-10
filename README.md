@@ -541,7 +541,7 @@ Reflex AI is built around five principles:
 
 ---
 
-## 8. Intended Audience
+## Intended Audience
 
 * AI & ML engineers
 * Data engineers
